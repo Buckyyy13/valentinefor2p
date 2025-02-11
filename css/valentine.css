@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "Mali";
+    src: url("fonts/Mali-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
 body {
   text-align: center;
   margin-top: 30px;
